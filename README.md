@@ -8,5 +8,6 @@ I have other different model (40 PCA + Quadratic classifier) with error rate of 
 
 refrences:-
 
-Dataset http://yann.lecun.com/exdb/mnist/
+dataset http://yann.lecun.com/exdb/mnist/
+
 non-linear classifier model https://github.com/DiaaAj/Handwritten-digits-recognition-non-linear-classifier-
